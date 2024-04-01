@@ -50,6 +50,10 @@
          -webkit-transform: translateZ(50px);
       }
       
+      .front:hover {
+        background-color: yellow;
+      }
+      
       .cube div.back {
          -webkit-transform: translateZ(-50px) rotateX(180deg);
       }
